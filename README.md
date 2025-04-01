@@ -17,10 +17,6 @@ Projeyi çalıştırabilmek için aşağıdaki Python kütüphanelerini yükleme
 - Requests
 - BeautifulSoup4
 
-### Gerekli Kütüphaneleri Yüklemek
-
-Proje için gerekli kütüphaneleri yüklemek için terminal veya komut satırında şu komutu çalıştırın:
-
 ```bash
 
 git clone https://github.com/kullanici-adi/flask-teams-api.git
