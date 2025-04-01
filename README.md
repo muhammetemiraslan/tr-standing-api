@@ -19,7 +19,7 @@ Projeyi çalıştırabilmek için aşağıdaki Python kütüphanelerini yükleme
 
 ```bash
 
-git clone https://github.com/kullanici-adi/flask-teams-api.git
+git clone https://github.com/muhammetemiraslan/flask-teams-api.git
 cd flask-teams-api
 
 ```
