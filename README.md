@@ -29,5 +29,30 @@ python app.py
 ```
 
 
+API'yi Kullanın:
 
+API çalışmaya başladığında, aşağıdaki endpoint üzerinden verilere erişebilirsiniz:
+
+```bash
+GET /api/teams
+```
+
+dönen yanıt şu şekilde olacaktır:
+
+```bash
+[
+    {
+        "team_name": "Takım Adı",
+        "games_played": "Oynanan Maç Sayısı",
+        "wins": "Kazanan Maç Sayısı",
+        "draws": "Beraberlik Sayısı",
+        "losses": "Kaybedilen Maç Sayısı",
+        "goals_for": "Atılan Gol Sayısı",
+        "goals_against": "Yenilen Gol Sayısı",
+        "goal_difference": "Averaj",
+        "points": "Toplanan Puan"
+    },
+    ...
+]
+```
 
